@@ -24,11 +24,22 @@ uma análise crítica dos resultados gerados pelo chatGPT.
 
 # 🛠 PRÉ REQUISITOS
 
-É necessária a instalação do [PYTHON](https://www.python.org/downloads/) (de preferência 3.10.6 - mas pode funcionar em superiores) e também do [JUPYTER LAB](https://jupyter.org/install) em sua máquina.
+É necessária a instalação do [PYTHON](https://www.python.org/downloads/) (de preferência 3.10.6 - mas pode funcionar em superiores).  
+
+Também é obrigatório possuir o [JUPYTER LAB](https://jupyter.org/install) em sua máquina.
 
 # ⚙ INSTALAÇÃO E INICIALIZAÇÃO
 
-Para poder visualizar o código de dentro do Jupyter Lab é primeiro necessário abrir o mesmo:
+Utilizamos algumas bibliotecas adicionais. Para instalar o pandas utilize:
+```bash
+  pip instal pandas
+```
+Para instalar o seaborn utilize no console:
+```bash
+  pip install seaborn
+```
+
+Por fim, para poder visualizar o código dentro do Jupyter Lab é necessário abrir o mesmo:
 ```bash
   jupyter lab
 ```

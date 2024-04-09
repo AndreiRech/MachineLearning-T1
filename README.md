@@ -2,7 +2,7 @@
 
 - [Andrei Rech | 23102140](https://github.com/AndreiRech)  
 - [Eduardo Martini Wolf | 23102268](https://github.com/dudu-wolf)
-- [Mariah Backes Freire | 23102560](https://github.com/mariahbf)
+- [Victor dos Santos Cruz | 21103101](https://github.com/vteze)
 
 # INTRODUÇÃO
 

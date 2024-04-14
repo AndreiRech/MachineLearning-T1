@@ -32,7 +32,7 @@ Também é obrigatório possuir o [JUPYTER LAB](https://jupyter.org/install) em 
 
 Utilizamos algumas bibliotecas adicionais. Para instalar o pandas utilize:
 ```bash
-  pip instal pandas
+  pip install pandas
 ```
 Para instalar o seaborn utilize no console:
 ```bash

@@ -34,6 +34,10 @@ Utilizamos algumas bibliotecas adicionais. Para instalar o pandas utilize:
 ```bash
   pip instal pandas
 ```
+Para instalar o numpy utilize no console:
+```bash
+  pip install numpy
+```
 Para instalar o seaborn utilize no console:
 ```bash
   pip install seaborn
